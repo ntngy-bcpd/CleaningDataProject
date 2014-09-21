@@ -11,16 +11,16 @@ The submitted files are:
 	4. README.md - this file describing how to run the script file 
 	   run_analysis.R.
 	   
-How to run the script:
-
 Assumptions:
+
 	1. run_analysis.R is in the working directory.
 	2. The UCI HAR data set is in the folder named "UCI HAR Dataset"
 	   in the working directory.
 	3. Packages plyr and stringr are installed and available 
 	   in the R environment.
 	   
-Steps:
+How to run the script:
+
 	1. Open the script run_analysis.R in R Studio.
 	2. Set the working directory to the one that 
 	   run_analysis.R is in.
